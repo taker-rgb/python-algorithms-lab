@@ -26,3 +26,7 @@ Early scaffold. Sorting module in progress.
 - [ ] Add search module
 - [ ] Add tests for all algorithms
 - [ ] Add complexity benchmark notebook
+
+# Usage 
+
+# Benchmarks
