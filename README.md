@@ -1,7 +1,8 @@
-## python-algorithms-lab
+
 Classic algorithms implemented from scratch in Python, — no numpy,
 no external dependencies. Each module documents its complexity and edge
 cases.
+
 
 ## Purpose
 
