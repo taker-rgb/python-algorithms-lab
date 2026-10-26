@@ -4,7 +4,6 @@ no external dependencies. Each module documents its complexity and edge
 cases.
 
 
-
 ## Purpose
 
 A reference for standard algorithms with clear, readable implementations
