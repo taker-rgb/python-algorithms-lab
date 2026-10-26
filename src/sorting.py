@@ -1,2 +1,4 @@
 bubble_sort
 insertion_sort
+merge_sort
+quick_sort
