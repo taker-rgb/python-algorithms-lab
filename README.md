@@ -13,3 +13,15 @@ and reasoning about time/space complexity.
 - `src/sorting.py` — bubble, insertion, merge, quick sort
 - `src/search.py` — linear, binary search
 - `tests/` — pytest suite
+
+
+## Status
+
+Early scaffold. Sorting module in progress.
+
+## Roadmap
+
+- [ ] Complete sorting module
+- [ ] Add search module
+- [ ] Add tests for all algorithms
+- [ ] Add complexity benchmark notebook
