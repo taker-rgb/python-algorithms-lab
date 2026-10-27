@@ -1,3 +1,4 @@
+
 from src.sorting import merge_sort
 
 def test_merge_sort():
