@@ -29,4 +29,5 @@ Early scaffold. Sorting module in progress.
 
 # Usage 
 
-# Benchmarks
+## Benchmarks
+Run `python benchmarks.py` to compare sorting algorithms.
