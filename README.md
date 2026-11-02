@@ -1,20 +1,16 @@
-# Python ALgorithms
-Classic algorithms implemented from scratch in Python, — no numpy,
-no external dependencies. Each module documents its complexity and edge
-cases.
+# Python Algorithms
 
+Classic algorithms implemented from scratch in Python — no numpy, no external dependencies. Each module documents its complexity and edge cases.
 
 ## Purpose
 
-A reference for standard algorithms with clear, readable implementations
-and reasoning about time/space complexity.
+A reference for standard algorithms with clear, readable implementations and reasoning about time/space complexity.
 
 ## Contents
 
 - `src/sorting.py` — bubble, insertion, merge, quick sort
 - `src/search.py` — linear, binary search
 - `tests/` — pytest suite
-
 
 ## Status
 
@@ -27,7 +23,13 @@ Early scaffold. Sorting module in progress.
 - [ ] Add tests for all algorithms
 - [ ] Add complexity benchmark notebook
 
-# Usage 
+## Usage
 
-## Benchmarks
+### Benchmarks
 Run `python benchmarks.py` to compare sorting algorithms.
+
+### Running Tests
+To run the test suite, ensure you have `pytest` installed:
+```bash
+pip install pytest
+pytest tests/
